@@ -4,4 +4,4 @@
 - The purpose of uploading the solutions was to document my progress throughout this java course and allow myself to look back at the progress I've made
 - Date Started: N/A (Long Lost In History) :(
 - Date Completed: N/A
-- Mooc.fi Java Programming II link: https://github.com/LeoZ213/mooc.fi-Java-Programming-II/new/main?readme=1
+- Mooc.fi Java Programming II link: https://github.com/LeoZ213/mooc.fi-Java-Programming-II/tree/main
