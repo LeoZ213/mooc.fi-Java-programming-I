@@ -3,5 +3,5 @@
 - DO NOT COPY THE SOLUTIONS (You can use them to guide you, but copying them WON'T help you learn the materials)
 - The purpose of uploading the solutions was to document my progress throughout this java course and allow myself to look back at the progress I've made
 - Date Started: N/A (Long Lost In History) :(
-- Date Completed: N/A
+- Date Completed: 1/6/2022
 - Mooc.fi Java Programming II link: https://github.com/LeoZ213/mooc.fi-Java-Programming-II/tree/main
